@@ -3,7 +3,9 @@
 **🎯 JavaScriptmas 2024 challenge from [Scrimba](https://scrimba.com/ "target=_blank"), Day 10**
 
 ### Backstory
-Santa Clause 🎅, Mrs. Clause, the elves 🧝, and the reindeer 🦌 are declaring their new republic, *the Republic of Christmas*, in the North Pole. Mrs. Clause, who has been taking many UI design lessons online, has already designed the Christmas flag. Take a look at the this beautiful design with the festive colors of Christmas.
+Santa Clause 🎅, Mrs. Clause, the elves 🧝, and the reindeer 🦌 are declaring their new republic, *the Republic of Christmas*, in the North Pole. Mrs. Clause, who has been taking many UI design lessons online, has already designed the Christmas flag. Take a look at the this beautiful design with the festive colors of Christmas:
+
+<img src="https://github.com/user-attachments/assets/993489b8-e4b7-4fe1-a654-e66662ba490f" alt="Christmas flag with CSS" width="640"><br/>
 
 All that's left is to implement it using HTML & CSS so they could put it on the official website of the Republic of Christmas. That's the challenge folks!
 
